@@ -1,2 +1,2 @@
-# -gekkowrld
+# Misc
 A repository that has no attached meaning or project
